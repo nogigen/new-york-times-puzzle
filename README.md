@@ -6,7 +6,7 @@ scrapes the puzzle from [link](https://www.nytimes.com/crosswords/game/mini).
 then generates new clues.
 
 ## example 1
-![example 1](/1.png)
+![example 1](/1.jpg)
 
 ## example 2
-![example 2](/2.png)
+![example 2](/2.jpg)
